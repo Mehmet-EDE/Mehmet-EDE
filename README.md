@@ -1,25 +1,69 @@
+<h1 align="center">👋 Hey, I'm Mehmet</h1>
+
+<p align="center">
+  💻 Frontend Developer <br/>
+  ⚛️ React & Next.js Lover <br/>
+  🚀 Building modern & scalable web apps
+</p>
+
+---
+
+## 🧠 About Me
+
+<p align="center">
+  ✨ I love creating clean and interactive UIs <br/>
+  🔥 Currently improving my React & TypeScript skills <br/>
+  🎯 Goal: Become a high-level frontend developer
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,git,github" />
 </div>
 
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehmet-EDE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehmet-EDE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mehmet-EDE&show_icons=true&theme=tokyonightE&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mehmet-EDE&show_icons=true&theme=tokyonight&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
+
+---
+
+## 🔥 Activity
+
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Mehmet-EDE&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Mehmet-EDE&theme=tokyonight&hide_border=true"/>
 </div>
 
+---
 
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Mehmet-EDE/count.svg?"  />
+
+🔹 <b>Project 1</b> – kısa açıklama
+🔹 <b>Project 2</b> – kısa açıklama
+🔹 <b>Project 3</b> – kısa açıklama
+
 </div>
 
+---
+
+## 📫 Contact
+
+<div align="center">
+  📧 yourmail@gmail.com <br/>
+  💼 linkedin.com/in/yourprofile
+</div>
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Mehmet-EDE/count.svg" />
+</div>
