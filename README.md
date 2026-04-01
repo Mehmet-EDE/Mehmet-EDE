@@ -41,8 +41,4 @@
   <img src="https://streak-stats.demolab.com?user=Mehmet-EDE&theme=tokyonight&hide_border=true"/>
 </div>
 
----
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Mehmet-EDE/count.svg" />
-</div>
