@@ -43,27 +43,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-🔹 <b>Project 1</b> – kısa açıklama
-🔹 <b>Project 2</b> – kısa açıklama
-🔹 <b>Project 3</b> – kısa açıklama
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-  📧 yourmail@gmail.com <br/>
-  💼 linkedin.com/in/yourprofile
-</div>
-
----
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Mehmet-EDE/count.svg" />
 </div>
