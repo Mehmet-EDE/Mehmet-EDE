@@ -30,7 +30,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mehmet-EDE&show_icons=true&theme=tokyonightE&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mehmet-EDE&show_icons=true&theme=tokyonight&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 ---
